@@ -9,8 +9,8 @@ import java.net.URL
 import java.net.URLEncoder
 
 class NaverImageSearchAPI {
-    val clientId = "wmV0kYp4ek0ba6kCCbxB"
-    val clientSecret = "PgxJ1saGO6"
+    val clientId = "클라이언트ID"
+    val clientSecret = "클라이언트SECRET"
 
     fun main(searchTitle: String?) {
         var text: String? = null
