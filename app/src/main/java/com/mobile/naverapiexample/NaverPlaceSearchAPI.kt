@@ -10,8 +10,8 @@ import java.net.URLEncoder
 
 
 class NaverPlaceSearchAPI {
-    val clientId = "wmV0kYp4ek0ba6kCCbxB"
-    val clientSecret = "PgxJ1saGO6"
+    val clientId = "클라이언트ID"
+    val clientSecret = "클라이언트Secret"
 
     fun main() {
         var text: String? = null
